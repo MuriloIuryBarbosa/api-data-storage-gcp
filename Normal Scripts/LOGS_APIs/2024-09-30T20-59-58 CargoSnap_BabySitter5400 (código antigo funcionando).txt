@@ -1,0 +1,35 @@
+Script: CargoSnap_BabySitter5400 (código antigo funcionando)
+Data de execução: 2024-09-30
+Hora de inicio: 20-59-58
+========================================
+Executando "CargoSnap_BabySitter5400 (código antigo funcionando)"...
+========================================
+
+Traceback (most recent call last):
+  File "C:\Users\Usuario\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\mysql\connector\network.py", line 509, in open_connection
+    self.sock.connect(sockaddr)
+OSError: [WinError 10065] Uma operação de soquete foi tentada em um host inacessível
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\Usuario\OneDrive - Suzano S A\Work\1 - Codigos\Banco-GCP\Normal Scripts\CargoSnap_BabySitter5400 (código antigo funcionando).py", line 24, in <module>
+    conexao = mysql.connector.connect(
+              ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Usuario\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\mysql\connector\__init__.py", line 179, in connect
+    return MySQLConnection(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Usuario\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\mysql\connector\connection.py", line 95, in __init__
+    self.connect(**kwargs)
+  File "C:\Users\Usuario\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\mysql\connector\abstracts.py", line 716, in connect
+    self._open_connection()
+  File "C:\Users\Usuario\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\mysql\connector\connection.py", line 206, in _open_connection
+    self._socket.open_connection()
+  File "C:\Users\Usuario\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\mysql\connector\network.py", line 511, in open_connection
+    raise errors.InterfaceError(
+mysql.connector.errors.InterfaceError: 2003: Can't connect to MySQL server on '35.224.29.30:3306' (10065 Uma operação de soquete foi tentada em um host inacessível)
+
+
+========================================
+Hora de fim: 20-59-59
+========================================

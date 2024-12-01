@@ -1,0 +1,38 @@
+Script: Ckl_AuditoriaProcessos
+Data de execução: 2024-09-25
+Hora de inicio: 14-19-10
+========================================
+Executando "Ckl_AuditoriaProcessos"...
+========================================
+
+Conexão ao MySQL estabelecida com sucesso.
+A requisição para o ID 101475247 falhou com o status code: 404
+IDs retornados na página 1: 1000
+IDs já registrados no banco de dados: 2308
+Novos registros a serem registrados: 1
+IDs retornados na página 2: 1000
+IDs já registrados no banco de dados: 2308
+Novos registros a serem registrados: 0
+Registrando ID 118165015 (1/12) da página 3
+Registrando ID 118349768 (2/12) da página 3
+Registrando ID 118351514 (3/12) da página 3
+Registrando ID 118353025 (4/12) da página 3
+Registrando ID 118354143 (5/12) da página 3
+Erro ao inserir o ID 118355329: 2013: Lost connection to MySQL server during query
+Erro ao inserir o ID 118360334: 2055: Lost connection to MySQL server at '35.224.29.30:3306', system error: 8 EOF occurred in violation of protocol (_ssl.c:2427)
+Erro ao inserir o ID 118362322: 2055: Lost connection to MySQL server at '35.224.29.30:3306', system error: 8 EOF occurred in violation of protocol (_ssl.c:2427)
+Erro ao inserir o ID 118370943: 2055: Lost connection to MySQL server at '35.224.29.30:3306', system error: 8 EOF occurred in violation of protocol (_ssl.c:2427)
+Erro ao inserir o ID 118376298: 2055: Lost connection to MySQL server at '35.224.29.30:3306', system error: 8 EOF occurred in violation of protocol (_ssl.c:2427)
+Erro ao inserir o ID 118380916: 2055: Lost connection to MySQL server at '35.224.29.30:3306', system error: 8 EOF occurred in violation of protocol (_ssl.c:2427)
+Erro ao inserir o ID 118381778: 2055: Lost connection to MySQL server at '35.224.29.30:3306', system error: 8 EOF occurred in violation of protocol (_ssl.c:2427)
+IDs retornados na página 3: 321
+IDs já registrados no banco de dados: 2308
+Novos registros a serem registrados: 12
+Erro ao conectar ao MySQL: 2055: Lost connection to MySQL server at '35.224.29.30:3306', system error: 1 [SSL: BAD_LENGTH] bad length (_ssl.c:2427)
+Processo finalizado.
+Novos Processos registrados no Banco: 5
+
+
+========================================
+Hora de fim: 14-24-43
+========================================

@@ -1,0 +1,33 @@
+Script: Ckl_TemposCarregamentosBensDeConsumo
+Data de execução: 2024-10-03
+Hora de inicio: 03-49-01
+========================================
+Executando "Ckl_TemposCarregamentosBensDeConsumo"...
+========================================
+
+Conexão ao MySQL estabelecida com sucesso.
+Traceback (most recent call last):
+IDs retornados na página 1: 1000
+  File "c:\Users\Usuario\OneDrive - Suzano S A\Work\1 - Codigos\Banco-GCP\Normal Scripts\Ckl_TemposCarregamentosBensDeConsumo.py", line 226, in <module>
+IDs já registrados no banco de dados: 3935
+    main()
+Novos registros a serem registrados: 0
+  File "c:\Users\Usuario\OneDrive - Suzano S A\Work\1 - Codigos\Banco-GCP\Normal Scripts\Ckl_TemposCarregamentosBensDeConsumo.py", line 173, in main
+IDs retornados na página 2: 1000
+    DataFim = converter_data(DataFim)  # Converter para YYYY-MM-DD
+IDs já registrados no banco de dados: 3935
+              ^^^^^^^^^^^^^^^^^^^^^^^
+Novos registros a serem registrados: 0
+  File "c:\Users\Usuario\OneDrive - Suzano S A\Work\1 - Codigos\Banco-GCP\Normal Scripts\Ckl_TemposCarregamentosBensDeConsumo.py", line 67, in converter_data
+IDs retornados na página 3: 1000
+    return datetime.strptime(data_str, "%d/%m/%Y").strftime("%Y-%m-%d")
+IDs já registrados no banco de dados: 3935
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Novos registros a serem registrados: 0
+TypeError: strptime() argument 1 must be str, not None
+Conexão ao MySQL fechada.
+
+
+========================================
+Hora de fim: 03-52-29
+========================================

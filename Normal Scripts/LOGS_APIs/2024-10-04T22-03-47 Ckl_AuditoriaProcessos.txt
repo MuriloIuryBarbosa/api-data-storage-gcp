@@ -1,0 +1,70 @@
+Script: Ckl_AuditoriaProcessos
+Data de execução: 2024-10-04
+Hora de inicio: 22-03-47
+========================================
+Executando "Ckl_AuditoriaProcessos"...
+========================================
+
+Conexão ao MySQL estabelecida com sucesso.
+A requisição para o ID 101475247 falhou com o status code: 404
+IDs retornados na página 1: 1000
+IDs já registrados no banco de dados: 2465
+Novos registros a serem registrados: 1
+IDs retornados na página 2: 1000
+IDs já registrados no banco de dados: 2465
+Novos registros a serem registrados: 0
+Registrando ID 119258546 (1/40) da página 3
+Registrando ID 119258660 (2/40) da página 3
+Registrando ID 119276266 (3/40) da página 3
+Registrando ID 119280173 (4/40) da página 3
+Registrando ID 119294249 (5/40) da página 3
+Registrando ID 119294656 (6/40) da página 3
+Registrando ID 119294990 (7/40) da página 3
+Registrando ID 119296582 (8/40) da página 3
+Registrando ID 119307447 (9/40) da página 3
+Registrando ID 119307449 (10/40) da página 3
+Registrando ID 119308646 (11/40) da página 3
+Registrando ID 119318924 (12/40) da página 3
+Registrando ID 119320675 (13/40) da página 3
+Registrando ID 119321969 (14/40) da página 3
+Registrando ID 119329145 (15/40) da página 3
+Registrando ID 119333619 (16/40) da página 3
+Registrando ID 119335488 (17/40) da página 3
+Registrando ID 119340514 (18/40) da página 3
+Registrando ID 119363866 (19/40) da página 3
+Registrando ID 119366871 (20/40) da página 3
+Registrando ID 119391463 (21/40) da página 3
+Registrando ID 119392589 (22/40) da página 3
+Registrando ID 119408336 (23/40) da página 3
+Registrando ID 119410046 (24/40) da página 3
+Registrando ID 119417747 (25/40) da página 3
+Registrando ID 119418295 (26/40) da página 3
+Registrando ID 119423039 (27/40) da página 3
+Registrando ID 119427655 (28/40) da página 3
+Registrando ID 119435025 (29/40) da página 3
+Registrando ID 119452974 (30/40) da página 3
+Registrando ID 119457866 (31/40) da página 3
+Registrando ID 119458482 (32/40) da página 3
+Registrando ID 119459162 (33/40) da página 3
+Registrando ID 119460590 (34/40) da página 3
+Registrando ID 119462960 (35/40) da página 3
+Registrando ID 119472500 (36/40) da página 3
+Registrando ID 119473167 (37/40) da página 3
+Registrando ID 119479031 (38/40) da página 3
+Registrando ID 119479803 (39/40) da página 3
+Registrando ID 119480225 (40/40) da página 3
+IDs retornados na página 3: 506
+IDs já registrados no banco de dados: 2465
+Novos registros a serem registrados: 40
+IDs retornados na página 4: 0
+IDs já registrados no banco de dados: 2505
+Novos registros a serem registrados: 0
+Duas páginas consecutivas retornaram 0 IDs. Finalizando o loop.
+Conexão ao MySQL fechada.
+Processo finalizado.
+Novos Processos registrados no Banco: 40
+
+
+========================================
+Hora de fim: 22-09-07
+========================================

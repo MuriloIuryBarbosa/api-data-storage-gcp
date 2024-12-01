@@ -1,0 +1,216 @@
+Script: Ckl_RelatorioDesvios_New
+Data de execução: 2024-10-01
+Hora de inicio: 13-08-07
+========================================
+Executando "Ckl_RelatorioDesvios_New"...
+========================================
+
+Conexão ao MySQL estabelecida com sucesso.
+A requisição para o ID 114713870 falhou com o status code: 404
+IDs retornados na página 1: 1000
+IDs já registrados no banco de dados: 1419
+Novos registros a serem registrados: 1
+Registrando ID 118641781 (1/189) da página 2
+Registrando ID 118642085 (2/189) da página 2
+Registrando ID 118642293 (3/189) da página 2
+Registrando ID 118642508 (4/189) da página 2
+Registrando ID 118645974 (5/189) da página 2
+Registrando ID 118646386 (6/189) da página 2
+Registrando ID 118646743 (7/189) da página 2
+Registrando ID 118646962 (8/189) da página 2
+Registrando ID 118647376 (9/189) da página 2
+Registrando ID 118647785 (10/189) da página 2
+Registrando ID 118649342 (11/189) da página 2
+Registrando ID 118650425 (12/189) da página 2
+Registrando ID 118651847 (13/189) da página 2
+Registrando ID 118652044 (14/189) da página 2
+Registrando ID 118653217 (15/189) da página 2
+Registrando ID 118659637 (16/189) da página 2
+Registrando ID 118660157 (17/189) da página 2
+Registrando ID 118664157 (18/189) da página 2
+Registrando ID 118664920 (19/189) da página 2
+Registrando ID 118665475 (20/189) da página 2
+Registrando ID 118665708 (21/189) da página 2
+Registrando ID 118666719 (22/189) da página 2
+Registrando ID 118673908 (23/189) da página 2
+Registrando ID 118674069 (24/189) da página 2
+Registrando ID 118674780 (25/189) da página 2
+Registrando ID 118683266 (26/189) da página 2
+Registrando ID 118687191 (27/189) da página 2
+Registrando ID 118688701 (28/189) da página 2
+Registrando ID 118688985 (29/189) da página 2
+Registrando ID 118707461 (30/189) da página 2
+Registrando ID 118707597 (31/189) da página 2
+Registrando ID 118707681 (32/189) da página 2
+Registrando ID 118707790 (33/189) da página 2
+Registrando ID 118707975 (34/189) da página 2
+Registrando ID 118708043 (35/189) da página 2
+Registrando ID 118708286 (36/189) da página 2
+Registrando ID 118712910 (37/189) da página 2
+Registrando ID 118715386 (38/189) da página 2
+Registrando ID 118717337 (39/189) da página 2
+Registrando ID 118717499 (40/189) da página 2
+Registrando ID 118730115 (41/189) da página 2
+Registrando ID 118730837 (42/189) da página 2
+Registrando ID 118730889 (43/189) da página 2
+Registrando ID 118730997 (44/189) da página 2
+Registrando ID 118731173 (45/189) da página 2
+Registrando ID 118734136 (46/189) da página 2
+Registrando ID 118736462 (47/189) da página 2
+Registrando ID 118738387 (48/189) da página 2
+Registrando ID 118739535 (49/189) da página 2
+Registrando ID 118739685 (50/189) da página 2
+Registrando ID 118739792 (51/189) da página 2
+Registrando ID 118739882 (52/189) da página 2
+Registrando ID 118739998 (53/189) da página 2
+Registrando ID 118742799 (54/189) da página 2
+Registrando ID 118742997 (55/189) da página 2
+Registrando ID 118744049 (56/189) da página 2
+Registrando ID 118759278 (57/189) da página 2
+Registrando ID 118767472 (58/189) da página 2
+Registrando ID 118781069 (59/189) da página 2
+Registrando ID 118797970 (60/189) da página 2
+Registrando ID 118797984 (61/189) da página 2
+Registrando ID 118797997 (62/189) da página 2
+Registrando ID 118798010 (63/189) da página 2
+Registrando ID 118798061 (64/189) da página 2
+Registrando ID 118798352 (65/189) da página 2
+Registrando ID 118801891 (66/189) da página 2
+Registrando ID 118803015 (67/189) da página 2
+Registrando ID 118803176 (68/189) da página 2
+Registrando ID 118809088 (69/189) da página 2
+Registrando ID 118813422 (70/189) da página 2
+Registrando ID 118814475 (71/189) da página 2
+Registrando ID 118817231 (72/189) da página 2
+Registrando ID 118817336 (73/189) da página 2
+Registrando ID 118823677 (74/189) da página 2
+Registrando ID 118823860 (75/189) da página 2
+Registrando ID 118827650 (76/189) da página 2
+Registrando ID 118827750 (77/189) da página 2
+Registrando ID 118828039 (78/189) da página 2
+Registrando ID 118828153 (79/189) da página 2
+Registrando ID 118843924 (80/189) da página 2
+Registrando ID 118850965 (81/189) da página 2
+Registrando ID 118851109 (82/189) da página 2
+Registrando ID 118851236 (83/189) da página 2
+Registrando ID 118851958 (84/189) da página 2
+Registrando ID 118855296 (85/189) da página 2
+Registrando ID 118858390 (86/189) da página 2
+Registrando ID 118866956 (87/189) da página 2
+Registrando ID 118867302 (88/189) da página 2
+Registrando ID 118867808 (89/189) da página 2
+Registrando ID 118868460 (90/189) da página 2
+Registrando ID 118870285 (91/189) da página 2
+Registrando ID 118875862 (92/189) da página 2
+Registrando ID 118881501 (93/189) da página 2
+Registrando ID 118881729 (94/189) da página 2
+Registrando ID 118881890 (95/189) da página 2
+Registrando ID 118881990 (96/189) da página 2
+Registrando ID 118882101 (97/189) da página 2
+Registrando ID 118882205 (98/189) da página 2
+Registrando ID 118882393 (99/189) da página 2
+Registrando ID 118882693 (100/189) da página 2
+Registrando ID 118882970 (101/189) da página 2
+Registrando ID 118883332 (102/189) da página 2
+Registrando ID 118883708 (103/189) da página 2
+Registrando ID 118883932 (104/189) da página 2
+Registrando ID 118884280 (105/189) da página 2
+Registrando ID 118901838 (106/189) da página 2
+Registrando ID 118903614 (107/189) da página 2
+Registrando ID 118911430 (108/189) da página 2
+Registrando ID 118919698 (109/189) da página 2
+Registrando ID 118922795 (110/189) da página 2
+Registrando ID 118923047 (111/189) da página 2
+Registrando ID 118923433 (112/189) da página 2
+Registrando ID 118923742 (113/189) da página 2
+Registrando ID 118924515 (114/189) da página 2
+Registrando ID 118928624 (115/189) da página 2
+Registrando ID 118929370 (116/189) da página 2
+Registrando ID 118931128 (117/189) da página 2
+Registrando ID 118931261 (118/189) da página 2
+Registrando ID 118931432 (119/189) da página 2
+Registrando ID 118931480 (120/189) da página 2
+Registrando ID 118931719 (121/189) da página 2
+Registrando ID 118931758 (122/189) da página 2
+Registrando ID 118932255 (123/189) da página 2
+Registrando ID 118938114 (124/189) da página 2
+Registrando ID 118943073 (125/189) da página 2
+Registrando ID 118943771 (126/189) da página 2
+Registrando ID 118945524 (127/189) da página 2
+Registrando ID 118950658 (128/189) da página 2
+Registrando ID 118951303 (129/189) da página 2
+Registrando ID 118953049 (130/189) da página 2
+Registrando ID 118953500 (131/189) da página 2
+Registrando ID 118953751 (132/189) da página 2
+Registrando ID 118955586 (133/189) da página 2
+Registrando ID 118956764 (134/189) da página 2
+Registrando ID 118957228 (135/189) da página 2
+Registrando ID 118959302 (136/189) da página 2
+Registrando ID 118960043 (137/189) da página 2
+Registrando ID 118960401 (138/189) da página 2
+Registrando ID 118960690 (139/189) da página 2
+Registrando ID 118960751 (140/189) da página 2
+Registrando ID 118960806 (141/189) da página 2
+Registrando ID 118962194 (142/189) da página 2
+Registrando ID 118962434 (143/189) da página 2
+Registrando ID 118962657 (144/189) da página 2
+Registrando ID 118963050 (145/189) da página 2
+Registrando ID 118979563 (146/189) da página 2
+Registrando ID 118980368 (147/189) da página 2
+Registrando ID 118980511 (148/189) da página 2
+Registrando ID 118980632 (149/189) da página 2
+Registrando ID 118980717 (150/189) da página 2
+Registrando ID 118980780 (151/189) da página 2
+Registrando ID 118980947 (152/189) da página 2
+Registrando ID 118981126 (153/189) da página 2
+Registrando ID 118981277 (154/189) da página 2
+Registrando ID 118981945 (155/189) da página 2
+Registrando ID 118982136 (156/189) da página 2
+Registrando ID 118982271 (157/189) da página 2
+Registrando ID 118982433 (158/189) da página 2
+Registrando ID 118982608 (159/189) da página 2
+Registrando ID 118982761 (160/189) da página 2
+Registrando ID 118982890 (161/189) da página 2
+Registrando ID 119000164 (162/189) da página 2
+Registrando ID 119000201 (163/189) da página 2
+Registrando ID 119005845 (164/189) da página 2
+Registrando ID 119005848 (165/189) da página 2
+Registrando ID 119009177 (166/189) da página 2
+Registrando ID 119017132 (167/189) da página 2
+Registrando ID 119017157 (168/189) da página 2
+Registrando ID 119019409 (169/189) da página 2
+Registrando ID 119020131 (170/189) da página 2
+Registrando ID 119020500 (171/189) da página 2
+Registrando ID 119020563 (172/189) da página 2
+Registrando ID 119020726 (173/189) da página 2
+Registrando ID 119020905 (174/189) da página 2
+Registrando ID 119021731 (175/189) da página 2
+Registrando ID 119022850 (176/189) da página 2
+Registrando ID 119023177 (177/189) da página 2
+Registrando ID 119025447 (178/189) da página 2
+Registrando ID 119030329 (179/189) da página 2
+Registrando ID 119040059 (180/189) da página 2
+Registrando ID 119040731 (181/189) da página 2
+Registrando ID 119041421 (182/189) da página 2
+Registrando ID 119045344 (183/189) da página 2
+Registrando ID 119046196 (184/189) da página 2
+Registrando ID 119046975 (185/189) da página 2
+Registrando ID 119047434 (186/189) da página 2
+Registrando ID 119047580 (187/189) da página 2
+Registrando ID 119047877 (188/189) da página 2
+Registrando ID 119048153 (189/189) da página 2
+IDs retornados na página 2: 609
+IDs já registrados no banco de dados: 1419
+Novos registros a serem registrados: 189
+IDs retornados na página 3: 0
+IDs já registrados no banco de dados: 1608
+Novos registros a serem registrados: 0
+Duas páginas consecutivas retornaram 0 IDs. Finalizando o loop.
+Conexão ao MySQL fechada.
+Processo finalizado.
+Novos Processos registrados no Banco: 189
+
+
+========================================
+Hora de fim: 13-16-00
+========================================

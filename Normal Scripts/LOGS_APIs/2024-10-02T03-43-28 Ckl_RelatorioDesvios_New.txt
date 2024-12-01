@@ -1,0 +1,59 @@
+Script: Ckl_RelatorioDesvios_New
+Data de execução: 2024-10-02
+Hora de inicio: 03-43-28
+========================================
+Executando "Ckl_RelatorioDesvios_New"...
+========================================
+
+Conexão ao MySQL estabelecida com sucesso.
+A requisição para o ID 114713870 falhou com o status code: 404
+IDs retornados na página 1: 1000
+IDs já registrados no banco de dados: 1608
+Novos registros a serem registrados: 1
+Registrando ID 119037015 (1/32) da página 2
+Registrando ID 119055782 (2/32) da página 2
+Registrando ID 119056041 (3/32) da página 2
+Registrando ID 119064796 (4/32) da página 2
+Registrando ID 119065441 (5/32) da página 2
+Registrando ID 119067671 (6/32) da página 2
+Registrando ID 119069158 (7/32) da página 2
+Registrando ID 119070507 (8/32) da página 2
+Registrando ID 119070798 (9/32) da página 2
+Registrando ID 119071258 (10/32) da página 2
+Registrando ID 119071668 (11/32) da página 2
+Registrando ID 119072031 (12/32) da página 2
+Registrando ID 119072258 (13/32) da página 2
+Registrando ID 119074494 (14/32) da página 2
+Registrando ID 119074675 (15/32) da página 2
+Registrando ID 119074928 (16/32) da página 2
+Registrando ID 119075448 (17/32) da página 2
+Registrando ID 119075879 (18/32) da página 2
+Registrando ID 119076127 (19/32) da página 2
+Registrando ID 119076411 (20/32) da página 2
+Registrando ID 119083267 (21/32) da página 2
+Registrando ID 119083495 (22/32) da página 2
+Registrando ID 119086129 (23/32) da página 2
+Registrando ID 119087155 (24/32) da página 2
+Registrando ID 119087375 (25/32) da página 2
+Registrando ID 119087638 (26/32) da página 2
+Registrando ID 119111115 (27/32) da página 2
+Registrando ID 119111482 (28/32) da página 2
+Registrando ID 119111561 (29/32) da página 2
+Registrando ID 119111697 (30/32) da página 2
+Registrando ID 119111767 (31/32) da página 2
+Registrando ID 119118923 (32/32) da página 2
+IDs retornados na página 2: 641
+IDs já registrados no banco de dados: 1608
+Novos registros a serem registrados: 32
+IDs retornados na página 3: 0
+IDs já registrados no banco de dados: 1640
+Novos registros a serem registrados: 0
+Duas páginas consecutivas retornaram 0 IDs. Finalizando o loop.
+Conexão ao MySQL fechada.
+Processo finalizado.
+Novos Processos registrados no Banco: 32
+
+
+========================================
+Hora de fim: 03-47-26
+========================================

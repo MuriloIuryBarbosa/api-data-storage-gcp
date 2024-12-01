@@ -1,0 +1,22 @@
+Script: Ckl_ControleDeHorasExtras_Antigo
+Data de execução: 2024-09-25
+Hora de inicio: 23-05-28
+========================================
+Executando "Ckl_ControleDeHorasExtras_Antigo"...
+========================================
+
+Conexão ao MySQL estabelecida com sucesso.
+Falha ao obter a lista de 'evaluationId' da página https://api-analytics.checklistfacil.com.br/v1/evaluations?status=6&checklistId=182814&page=1. Status code: 401
+IDs retornados na página 1: 0
+IDs já registrados no banco de dados: 3636
+Novos registros a serem registrados: 0
+Falha ao obter a lista de 'evaluationId' da página https://api-analytics.checklistfacil.com.br/v1/evaluations?status=6&checklistId=182814&page=2. Status code: 401
+Duas páginas consecutivas retornaram 0 IDs. Finalizando o loop.
+Conexão ao MySQL fechada.
+Processo finalizado.
+Novos Processos registrados no Banco: 0
+
+
+========================================
+Hora de fim: 23-06-37
+========================================

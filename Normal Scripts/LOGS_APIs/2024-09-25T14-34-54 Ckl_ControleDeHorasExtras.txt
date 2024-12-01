@@ -1,0 +1,14 @@
+Script: Ckl_ControleDeHorasExtras
+Data de execução: 2024-09-25
+Hora de inicio: 14-34-54
+========================================
+Executando "Ckl_ControleDeHorasExtras"...
+========================================
+
+Erro ao conectar ao MySQL: 2055: Lost connection to MySQL server at '35.224.29.30:3306', system error: 1 [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1006)
+Abortando a execução devido a falha na conexão com o MySQL.
+
+
+========================================
+Hora de fim: 14-35-15
+========================================

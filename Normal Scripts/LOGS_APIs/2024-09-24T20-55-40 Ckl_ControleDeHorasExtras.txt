@@ -1,0 +1,7 @@
+Script: Ckl_ControleDeHorasExtras
+Data de execução: 2024-09-24
+Hora de inicio: 20-55-40
+========================================
+Executando "Ckl_ControleDeHorasExtras"...
+========================================
+

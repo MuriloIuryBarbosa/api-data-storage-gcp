@@ -1,0 +1,23 @@
+Script: Ckl_ParadaDeMaquinas
+Data de execução: 2024-10-03
+Hora de inicio: 03-11-15
+========================================
+Executando "Ckl_ParadaDeMaquinas"...
+========================================
+
+Conexão ao MySQL estabelecida com sucesso.
+IDs retornados na página 1: 187
+IDs já registrados no banco de dados: 187
+Novos registros a serem registrados: 0
+IDs retornados na página 2: 0
+IDs já registrados no banco de dados: 187
+Novos registros a serem registrados: 0
+Duas páginas consecutivas retornaram 0 IDs. Finalizando o loop.
+Conexão ao MySQL fechada.
+Processo finalizado.
+Novos Processos registrados no Banco: 0
+
+
+========================================
+Hora de fim: 03-13-29
+========================================

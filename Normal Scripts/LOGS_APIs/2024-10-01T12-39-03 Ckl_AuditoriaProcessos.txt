@@ -1,0 +1,99 @@
+Script: Ckl_AuditoriaProcessos
+Data de execução: 2024-10-01
+Hora de inicio: 12-39-03
+========================================
+Executando "Ckl_AuditoriaProcessos"...
+========================================
+
+Conexão ao MySQL estabelecida com sucesso.
+A requisição para o ID 101475247 falhou com o status code: 404
+IDs retornados na página 1: 1000
+IDs já registrados no banco de dados: 2368
+Novos registros a serem registrados: 1
+IDs retornados na página 2: 1000
+IDs já registrados no banco de dados: 2368
+Novos registros a serem registrados: 0
+Registrando ID 118649147 (1/69) da página 3
+Registrando ID 118651816 (2/69) da página 3
+Registrando ID 118652416 (3/69) da página 3
+Registrando ID 118652535 (4/69) da página 3
+Registrando ID 118668649 (5/69) da página 3
+Registrando ID 118673529 (6/69) da página 3
+Registrando ID 118674520 (7/69) da página 3
+Registrando ID 118674624 (8/69) da página 3
+Registrando ID 118691185 (9/69) da página 3
+Registrando ID 118694136 (10/69) da página 3
+Registrando ID 118697726 (11/69) da página 3
+Registrando ID 118707612 (12/69) da página 3
+Registrando ID 118708062 (13/69) da página 3
+Registrando ID 118708200 (14/69) da página 3
+Registrando ID 118712942 (15/69) da página 3
+Registrando ID 118717418 (16/69) da página 3
+Registrando ID 118734108 (17/69) da página 3
+Registrando ID 118736359 (18/69) da página 3
+Registrando ID 118738413 (19/69) da página 3
+Registrando ID 118751845 (20/69) da página 3
+Registrando ID 118751974 (21/69) da página 3
+Registrando ID 118761550 (22/69) da página 3
+Registrando ID 118765876 (23/69) da página 3
+Registrando ID 118765996 (24/69) da página 3
+Registrando ID 118766044 (25/69) da página 3
+Registrando ID 118767300 (26/69) da página 3
+Registrando ID 118767464 (27/69) da página 3
+Registrando ID 118769219 (28/69) da página 3
+Registrando ID 118769245 (29/69) da página 3
+Registrando ID 118773963 (30/69) da página 3
+Registrando ID 118775167 (31/69) da página 3
+Registrando ID 118797396 (32/69) da página 3
+Registrando ID 118798217 (33/69) da página 3
+Registrando ID 118799433 (34/69) da página 3
+Registrando ID 118817934 (35/69) da página 3
+Registrando ID 118821103 (36/69) da página 3
+Registrando ID 118825234 (37/69) da página 3
+Registrando ID 118827949 (38/69) da página 3
+Registrando ID 118846050 (39/69) da página 3
+Registrando ID 118851810 (40/69) da página 3
+Registrando ID 118854282 (41/69) da página 3
+Registrando ID 118872616 (42/69) da página 3
+Registrando ID 118873157 (43/69) da página 3
+Registrando ID 118880566 (44/69) da página 3
+Registrando ID 118884817 (45/69) da página 3
+Registrando ID 118916319 (46/69) da página 3
+Registrando ID 118920677 (47/69) da página 3
+Registrando ID 118929135 (48/69) da página 3
+Registrando ID 118929341 (49/69) da página 3
+Registrando ID 118929763 (50/69) da página 3
+Registrando ID 118935978 (51/69) da página 3
+Registrando ID 118936095 (52/69) da página 3
+Registrando ID 118937529 (53/69) da página 3
+Registrando ID 118938315 (54/69) da página 3
+Registrando ID 118941529 (55/69) da página 3
+Registrando ID 118955089 (56/69) da página 3
+Registrando ID 118974603 (57/69) da página 3
+Registrando ID 118976350 (58/69) da página 3
+Registrando ID 118980148 (59/69) da página 3
+Registrando ID 118981751 (60/69) da página 3
+Registrando ID 118982542 (61/69) da página 3
+Registrando ID 118999990 (62/69) da página 3
+Registrando ID 119005273 (63/69) da página 3
+Registrando ID 119008307 (64/69) da página 3
+Registrando ID 119020446 (65/69) da página 3
+Registrando ID 119041276 (66/69) da página 3
+Registrando ID 119042288 (67/69) da página 3
+Registrando ID 119044816 (68/69) da página 3
+Registrando ID 119047817 (69/69) da página 3
+IDs retornados na página 3: 438
+IDs já registrados no banco de dados: 2368
+Novos registros a serem registrados: 69
+IDs retornados na página 4: 0
+IDs já registrados no banco de dados: 2437
+Novos registros a serem registrados: 0
+Duas páginas consecutivas retornaram 0 IDs. Finalizando o loop.
+Conexão ao MySQL fechada.
+Processo finalizado.
+Novos Processos registrados no Banco: 69
+
+
+========================================
+Hora de fim: 12-45-49
+========================================

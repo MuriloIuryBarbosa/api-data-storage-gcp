@@ -1,0 +1,58 @@
+Script: Ckl_ControleDeHorasExtras
+Data de execução: 2024-09-25
+Hora de inicio: 22-56-14
+========================================
+Executando "Ckl_ControleDeHorasExtras"...
+========================================
+
+Conexão ao MySQL estabelecida com sucesso.
+Falha ao obter a lista de 'evaluationId' da página https://api-analytics.checklistfacil.com.br/v1/evaluations?status=6&checklistId=470026&page=1. Status code: 401
+IDs retornados na página 1: 0
+IDs já registrados no banco de dados: 3636
+Novos registros a serem registrados: 0
+Falha ao obter a lista de 'evaluationId' da página https://api-analytics.checklistfacil.com.br/v1/evaluations?status=6&checklistId=470026&page=2. Status code: 401
+Duas páginas consecutivas retornaram 0 IDs. Finalizando o loop.
+Falha ao obter a lista de 'evaluationId' da página https://api-analytics.checklistfacil.com.br/v1/evaluations?status=6&checklistId=572990&page=1. Status code: 401
+IDs retornados na página 1: 0
+IDs já registrados no banco de dados: 3636
+Novos registros a serem registrados: 0
+Falha ao obter a lista de 'evaluationId' da página https://api-analytics.checklistfacil.com.br/v1/evaluations?status=6&checklistId=572990&page=2. Status code: 401
+Duas páginas consecutivas retornaram 0 IDs. Finalizando o loop.
+Falha ao obter a lista de 'evaluationId' da página https://api-analytics.checklistfacil.com.br/v1/evaluations?status=6&checklistId=572985&page=1. Status code: 401
+IDs retornados na página 1: 0
+IDs já registrados no banco de dados: 3636
+Novos registros a serem registrados: 0
+Falha ao obter a lista de 'evaluationId' da página https://api-analytics.checklistfacil.com.br/v1/evaluations?status=6&checklistId=572985&page=2. Status code: 401
+Duas páginas consecutivas retornaram 0 IDs. Finalizando o loop.
+Falha ao obter a lista de 'evaluationId' da página https://api-analytics.checklistfacil.com.br/v1/evaluations?status=6&checklistId=572983&page=1. Status code: 401
+IDs retornados na página 1: 0
+IDs já registrados no banco de dados: 3636
+Novos registros a serem registrados: 0
+Falha ao obter a lista de 'evaluationId' da página https://api-analytics.checklistfacil.com.br/v1/evaluations?status=6&checklistId=572983&page=2. Status code: 401
+Duas páginas consecutivas retornaram 0 IDs. Finalizando o loop.
+Falha ao obter a lista de 'evaluationId' da página https://api-analytics.checklistfacil.com.br/v1/evaluations?status=6&checklistId=572978&page=1. Status code: 401
+IDs retornados na página 1: 0
+IDs já registrados no banco de dados: 3636
+Novos registros a serem registrados: 0
+Falha ao obter a lista de 'evaluationId' da página https://api-analytics.checklistfacil.com.br/v1/evaluations?status=6&checklistId=572978&page=2. Status code: 401
+Duas páginas consecutivas retornaram 0 IDs. Finalizando o loop.
+Falha ao obter a lista de 'evaluationId' da página https://api-analytics.checklistfacil.com.br/v1/evaluations?status=6&checklistId=572975&page=1. Status code: 401
+IDs retornados na página 1: 0
+IDs já registrados no banco de dados: 3636
+Novos registros a serem registrados: 0
+Falha ao obter a lista de 'evaluationId' da página https://api-analytics.checklistfacil.com.br/v1/evaluations?status=6&checklistId=572975&page=2. Status code: 401
+Duas páginas consecutivas retornaram 0 IDs. Finalizando o loop.
+Falha ao obter a lista de 'evaluationId' da página https://api-analytics.checklistfacil.com.br/v1/evaluations?status=6&checklistId=572944&page=1. Status code: 401
+IDs retornados na página 1: 0
+IDs já registrados no banco de dados: 3636
+Novos registros a serem registrados: 0
+Falha ao obter a lista de 'evaluationId' da página https://api-analytics.checklistfacil.com.br/v1/evaluations?status=6&checklistId=572944&page=2. Status code: 401
+Duas páginas consecutivas retornaram 0 IDs. Finalizando o loop.
+Conexão ao MySQL fechada.
+Processo finalizado.
+Novos Processos registrados no Banco: 0
+
+
+========================================
+Hora de fim: 23-04-08
+========================================

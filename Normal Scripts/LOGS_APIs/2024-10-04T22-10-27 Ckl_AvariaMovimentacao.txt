@@ -1,0 +1,23 @@
+Script: Ckl_AvariaMovimentacao
+Data de execução: 2024-10-04
+Hora de inicio: 22-10-27
+========================================
+Executando "Ckl_AvariaMovimentacao"...
+========================================
+
+Conexão ao MySQL estabelecida com sucesso.
+IDs retornados na página 1: 261
+IDs já registrados no banco de dados: 290
+Novos registros a serem registrados: 0
+IDs retornados na página 2: 0
+IDs já registrados no banco de dados: 290
+Novos registros a serem registrados: 0
+Duas páginas consecutivas retornaram 0 IDs. Finalizando o loop.
+Conexão ao MySQL fechada.
+Processo finalizado.
+Novos Processos registrados no Banco: 0
+
+
+========================================
+Hora de fim: 22-12-43
+========================================

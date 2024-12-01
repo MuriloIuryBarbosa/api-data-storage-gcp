@@ -1,0 +1,14 @@
+Script: Ckl_RelatorioDesvios_New
+Data de execução: 2024-09-25
+Hora de inicio: 14-37-57
+========================================
+Executando "Ckl_RelatorioDesvios_New"...
+========================================
+
+Erro ao conectar ao MySQL: (2003, "Can't connect to MySQL server on '35.224.29.30' ([WinError 10051] Uma operação de soquete foi tentada em uma rede inacessível)")
+Abortando a execução devido a falha na conexão com o MySQL.
+
+
+========================================
+Hora de fim: 14-37-58
+========================================

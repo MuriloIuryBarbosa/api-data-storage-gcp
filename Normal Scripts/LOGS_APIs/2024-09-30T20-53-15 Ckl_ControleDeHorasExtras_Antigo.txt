@@ -1,0 +1,14 @@
+Script: Ckl_ControleDeHorasExtras_Antigo
+Data de execução: 2024-09-30
+Hora de inicio: 20-53-15
+========================================
+Executando "Ckl_ControleDeHorasExtras_Antigo"...
+========================================
+
+Erro ao conectar ao MySQL: (2003, "Can't connect to MySQL server on '35.224.29.30' ([WinError 10065] Uma operação de soquete foi tentada em um host inacessível)")
+Abortando a execução devido a falha na conexão com o MySQL.
+
+
+========================================
+Hora de fim: 20-53-16
+========================================

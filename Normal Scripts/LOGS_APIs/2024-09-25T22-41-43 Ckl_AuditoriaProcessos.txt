@@ -1,0 +1,48 @@
+Script: Ckl_AuditoriaProcessos
+Data de execução: 2024-09-25
+Hora de inicio: 22-41-43
+========================================
+Executando "Ckl_AuditoriaProcessos"...
+========================================
+
+Conexão ao MySQL estabelecida com sucesso.
+A requisição para o ID 101475247 falhou com o status code: 404
+IDs retornados na página 1: 1000
+IDs já registrados no banco de dados: 2313
+Novos registros a serem registrados: 1
+IDs retornados na página 2: 1000
+IDs já registrados no banco de dados: 2313
+Novos registros a serem registrados: 0
+Registrando ID 118355329 (1/18) da página 3
+Registrando ID 118360334 (2/18) da página 3
+Registrando ID 118362322 (3/18) da página 3
+Registrando ID 118370943 (4/18) da página 3
+Registrando ID 118376298 (5/18) da página 3
+Registrando ID 118380916 (6/18) da página 3
+Registrando ID 118381778 (7/18) da página 3
+Registrando ID 118413698 (8/18) da página 3
+Registrando ID 118414609 (9/18) da página 3
+Registrando ID 118415020 (10/18) da página 3
+Registrando ID 118415877 (11/18) da página 3
+Registrando ID 118416045 (12/18) da página 3
+Registrando ID 118417825 (13/18) da página 3
+Registrando ID 118417928 (14/18) da página 3
+Registrando ID 118428236 (15/18) da página 3
+Registrando ID 118434582 (16/18) da página 3
+Registrando ID 118439457 (17/18) da página 3
+Registrando ID 118439493 (18/18) da página 3
+IDs retornados na página 3: 332
+IDs já registrados no banco de dados: 2313
+Novos registros a serem registrados: 18
+IDs retornados na página 4: 0
+IDs já registrados no banco de dados: 2331
+Novos registros a serem registrados: 0
+Duas páginas consecutivas retornaram 0 IDs. Finalizando o loop.
+Conexão ao MySQL fechada.
+Processo finalizado.
+Novos Processos registrados no Banco: 18
+
+
+========================================
+Hora de fim: 22-46-33
+========================================

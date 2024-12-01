@@ -1,0 +1,39 @@
+Script: Ckl_RelatorioDesvios_New
+Data de execução: 2024-10-03
+Hora de inicio: 03-44-04
+========================================
+Executando "Ckl_RelatorioDesvios_New"...
+========================================
+
+Conexão ao MySQL estabelecida com sucesso.
+A requisição para o ID 114713870 falhou com o status code: 404
+IDs retornados na página 1: 1000
+IDs já registrados no banco de dados: 1665
+Novos registros a serem registrados: 1
+Registrando ID 119201734 (1/12) da página 2
+Registrando ID 119205741 (2/12) da página 2
+Registrando ID 119215370 (3/12) da página 2
+Registrando ID 119217153 (4/12) da página 2
+Registrando ID 119217884 (5/12) da página 2
+Registrando ID 119224866 (6/12) da página 2
+Registrando ID 119232616 (7/12) da página 2
+Registrando ID 119239294 (8/12) da página 2
+Registrando ID 119239390 (9/12) da página 2
+Registrando ID 119253556 (10/12) da página 2
+Registrando ID 119253645 (11/12) da página 2
+Registrando ID 119256425 (12/12) da página 2
+IDs retornados na página 2: 678
+IDs já registrados no banco de dados: 1665
+Novos registros a serem registrados: 12
+IDs retornados na página 3: 0
+IDs já registrados no banco de dados: 1677
+Novos registros a serem registrados: 0
+Duas páginas consecutivas retornaram 0 IDs. Finalizando o loop.
+Conexão ao MySQL fechada.
+Processo finalizado.
+Novos Processos registrados no Banco: 12
+
+
+========================================
+Hora de fim: 03-47-41
+========================================

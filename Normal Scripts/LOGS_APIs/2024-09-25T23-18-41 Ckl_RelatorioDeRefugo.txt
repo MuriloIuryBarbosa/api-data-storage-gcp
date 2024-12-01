@@ -1,0 +1,129 @@
+Script: Ckl_RelatorioDeRefugo
+Data de execução: 2024-09-25
+Hora de inicio: 23-18-41
+========================================
+Executando "Ckl_RelatorioDeRefugo"...
+========================================
+
+Conexão ao MySQL estabelecida com sucesso.
+Traceback (most recent call last):
+IDs retornados na página 1: 1000
+  File "C:\Users\Usuario\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connection.py", line 203, in _new_conn
+IDs já registrados no banco de dados: 16662
+    sock = connection.create_connection(
+Novos registros a serem registrados: 0
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+IDs retornados na página 2: 1000
+  File "C:\Users\Usuario\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\util\connection.py", line 60, in create_connection
+IDs já registrados no banco de dados: 16662
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+Novos registros a serem registrados: 0
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+IDs retornados na página 3: 1000
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\socket.py", line 962, in getaddrinfo
+IDs já registrados no banco de dados: 16662
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+Novos registros a serem registrados: 0
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+IDs retornados na página 4: 1000
+socket.gaierror: [Errno 11001] getaddrinfo failed
+IDs já registrados no banco de dados: 16662
+
+Novos registros a serem registrados: 0
+The above exception was the direct cause of the following exception:
+IDs retornados na página 5: 1000
+
+IDs já registrados no banco de dados: 16662
+Traceback (most recent call last):
+Novos registros a serem registrados: 0
+  File "C:\Users\Usuario\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 790, in urlopen
+IDs retornados na página 6: 1000
+    response = self._make_request(
+IDs já registrados no banco de dados: 16662
+               ^^^^^^^^^^^^^^^^^^^
+Novos registros a serem registrados: 0
+  File "C:\Users\Usuario\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 491, in _make_request
+IDs retornados na página 7: 1000
+    raise new_e
+IDs já registrados no banco de dados: 16662
+  File "C:\Users\Usuario\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 467, in _make_request
+Novos registros a serem registrados: 0
+    self._validate_conn(conn)
+IDs retornados na página 8: 1000
+  File "C:\Users\Usuario\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 1096, in _validate_conn
+IDs já registrados no banco de dados: 16662
+    conn.connect()
+Novos registros a serem registrados: 0
+  File "C:\Users\Usuario\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connection.py", line 611, in connect
+IDs retornados na página 9: 1000
+    self.sock = sock = self._new_conn()
+IDs já registrados no banco de dados: 16662
+                       ^^^^^^^^^^^^^^^^
+Novos registros a serem registrados: 0
+  File "C:\Users\Usuario\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connection.py", line 210, in _new_conn
+IDs retornados na página 10: 1000
+    raise NameResolutionError(self.host, self, e) from e
+IDs já registrados no banco de dados: 16662
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x00000170CD8C9E10>: Failed to resolve 'api-analytics.checklistfacil.com.br' ([Errno 11001] getaddrinfo failed)
+Novos registros a serem registrados: 0
+
+IDs retornados na página 11: 1000
+The above exception was the direct cause of the following exception:
+IDs já registrados no banco de dados: 16662
+
+Novos registros a serem registrados: 0
+Traceback (most recent call last):
+IDs retornados na página 12: 1000
+  File "C:\Users\Usuario\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\adapters.py", line 486, in send
+IDs já registrados no banco de dados: 16662
+    resp = conn.urlopen(
+Novos registros a serem registrados: 0
+           ^^^^^^^^^^^^^
+IDs retornados na página 13: 1000
+  File "C:\Users\Usuario\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 844, in urlopen
+IDs já registrados no banco de dados: 16662
+    retries = retries.increment(
+Novos registros a serem registrados: 0
+              ^^^^^^^^^^^^^^^^^^
+IDs retornados na página 14: 1000
+  File "C:\Users\Usuario\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\util\retry.py", line 515, in increment
+IDs já registrados no banco de dados: 16662
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+Novos registros a serem registrados: 0
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+IDs retornados na página 15: 1000
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api-analytics.checklistfacil.com.br', port=443): Max retries exceeded with url: /v1/evaluations?status=6&checklistId=415456&page=16 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000170CD8C9E10>: Failed to resolve 'api-analytics.checklistfacil.com.br' ([Errno 11001] getaddrinfo failed)"))
+IDs já registrados no banco de dados: 16662
+
+Novos registros a serem registrados: 0
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\Usuario\OneDrive - Suzano S A\Work\1 - Codigos\Banco-GCP\Normal Scripts\Ckl_RelatorioDeRefugo.py", line 226, in <module>
+    main()
+  File "c:\Users\Usuario\OneDrive - Suzano S A\Work\1 - Codigos\Banco-GCP\Normal Scripts\Ckl_RelatorioDeRefugo.py", line 104, in main
+    evaluation_ids = processar_pagina(url, headers)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Usuario\OneDrive - Suzano S A\Work\1 - Codigos\Banco-GCP\Normal Scripts\Ckl_RelatorioDeRefugo.py", line 49, in processar_pagina
+    response = requests.get(url_ConsultaIDChecklist, headers=headers, verify=False)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Usuario\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Usuario\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Usuario\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Usuario\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Usuario\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\adapters.py", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api-analytics.checklistfacil.com.br', port=443): Max retries exceeded with url: /v1/evaluations?status=6&checklistId=415456&page=16 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000170CD8C9E10>: Failed to resolve 'api-analytics.checklistfacil.com.br' ([Errno 11001] getaddrinfo failed)"))
+
+
+========================================
+Hora de fim: 23-36-06
+========================================

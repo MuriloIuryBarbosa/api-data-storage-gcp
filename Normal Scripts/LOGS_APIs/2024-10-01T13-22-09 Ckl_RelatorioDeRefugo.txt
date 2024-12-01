@@ -1,0 +1,210 @@
+Script: Ckl_RelatorioDeRefugo
+Data de execução: 2024-10-01
+Hora de inicio: 13-22-09
+========================================
+Executando "Ckl_RelatorioDeRefugo"...
+========================================
+
+Conexão ao MySQL estabelecida com sucesso.
+Traceback (most recent call last):
+IDs retornados na página 1: 1000
+  File "C:\Users\Usuario\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connection.py", line 203, in _new_conn
+IDs já registrados no banco de dados: 16926
+    sock = connection.create_connection(
+Novos registros a serem registrados: 0
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+IDs retornados na página 2: 1000
+  File "C:\Users\Usuario\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\util\connection.py", line 60, in create_connection
+IDs já registrados no banco de dados: 16926
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+Novos registros a serem registrados: 0
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+IDs retornados na página 3: 1000
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\socket.py", line 962, in getaddrinfo
+IDs já registrados no banco de dados: 16926
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+Novos registros a serem registrados: 0
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+IDs retornados na página 4: 1000
+socket.gaierror: [Errno 11001] getaddrinfo failed
+IDs já registrados no banco de dados: 16926
+
+Novos registros a serem registrados: 0
+The above exception was the direct cause of the following exception:
+IDs retornados na página 5: 1000
+
+IDs já registrados no banco de dados: 16926
+Traceback (most recent call last):
+Novos registros a serem registrados: 0
+  File "C:\Users\Usuario\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 790, in urlopen
+IDs retornados na página 6: 1000
+    response = self._make_request(
+IDs já registrados no banco de dados: 16926
+               ^^^^^^^^^^^^^^^^^^^
+Novos registros a serem registrados: 0
+  File "C:\Users\Usuario\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 491, in _make_request
+IDs retornados na página 7: 1000
+    raise new_e
+IDs já registrados no banco de dados: 16926
+  File "C:\Users\Usuario\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 467, in _make_request
+Novos registros a serem registrados: 0
+    self._validate_conn(conn)
+IDs retornados na página 8: 1000
+  File "C:\Users\Usuario\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 1096, in _validate_conn
+IDs já registrados no banco de dados: 16926
+    conn.connect()
+Novos registros a serem registrados: 0
+  File "C:\Users\Usuario\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connection.py", line 611, in connect
+IDs retornados na página 9: 1000
+    self.sock = sock = self._new_conn()
+IDs já registrados no banco de dados: 16926
+                       ^^^^^^^^^^^^^^^^
+Novos registros a serem registrados: 0
+  File "C:\Users\Usuario\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connection.py", line 210, in _new_conn
+IDs retornados na página 10: 1000
+    raise NameResolutionError(self.host, self, e) from e
+IDs já registrados no banco de dados: 16926
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x000002459D0B7850>: Failed to resolve 'api-analytics.checklistfacil.com.br' ([Errno 11001] getaddrinfo failed)
+Novos registros a serem registrados: 0
+
+IDs retornados na página 11: 1000
+The above exception was the direct cause of the following exception:
+IDs já registrados no banco de dados: 16926
+
+Novos registros a serem registrados: 0
+Traceback (most recent call last):
+IDs retornados na página 12: 1000
+  File "C:\Users\Usuario\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\adapters.py", line 486, in send
+IDs já registrados no banco de dados: 16926
+    resp = conn.urlopen(
+Novos registros a serem registrados: 0
+           ^^^^^^^^^^^^^
+IDs retornados na página 13: 1000
+  File "C:\Users\Usuario\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 844, in urlopen
+IDs já registrados no banco de dados: 16926
+    retries = retries.increment(
+Novos registros a serem registrados: 0
+              ^^^^^^^^^^^^^^^^^^
+IDs retornados na página 14: 1000
+  File "C:\Users\Usuario\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\util\retry.py", line 515, in increment
+IDs já registrados no banco de dados: 16926
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+Novos registros a serem registrados: 0
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+IDs retornados na página 15: 1000
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api-analytics.checklistfacil.com.br', port=443): Max retries exceeded with url: /v1/evaluations?status=6&checklistId=415456&page=18 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002459D0B7850>: Failed to resolve 'api-analytics.checklistfacil.com.br' ([Errno 11001] getaddrinfo failed)"))
+IDs já registrados no banco de dados: 16926
+
+Novos registros a serem registrados: 0
+During handling of the above exception, another exception occurred:
+IDs retornados na página 16: 1000
+
+IDs já registrados no banco de dados: 16926
+Traceback (most recent call last):
+Novos registros a serem registrados: 0
+  File "c:\Users\Usuario\OneDrive - Suzano S A\Work\1 - Codigos\Banco-GCP\Normal Scripts\Ckl_RelatorioDeRefugo.py", line 226, in <module>
+Registrando ID 118647218 (1/74) da página 17
+    main()
+Registrando ID 118647559 (2/74) da página 17
+  File "c:\Users\Usuario\OneDrive - Suzano S A\Work\1 - Codigos\Banco-GCP\Normal Scripts\Ckl_RelatorioDeRefugo.py", line 104, in main
+Registrando ID 118656436 (3/74) da página 17
+    evaluation_ids = processar_pagina(url, headers)
+Registrando ID 118656651 (4/74) da página 17
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Registrando ID 118656841 (5/74) da página 17
+  File "c:\Users\Usuario\OneDrive - Suzano S A\Work\1 - Codigos\Banco-GCP\Normal Scripts\Ckl_RelatorioDeRefugo.py", line 49, in processar_pagina
+Registrando ID 118657000 (6/74) da página 17
+    response = requests.get(url_ConsultaIDChecklist, headers=headers, verify=False)
+Registrando ID 118659537 (7/74) da página 17
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Registrando ID 118659965 (8/74) da página 17
+  File "C:\Users\Usuario\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\api.py", line 73, in get
+Registrando ID 118665063 (9/74) da página 17
+    return request("get", url, params=params, **kwargs)
+Registrando ID 118665587 (10/74) da página 17
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Registrando ID 118665870 (11/74) da página 17
+  File "C:\Users\Usuario\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\api.py", line 59, in request
+Registrando ID 118666569 (12/74) da página 17
+    return session.request(method=method, url=url, **kwargs)
+Registrando ID 118669389 (13/74) da página 17
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Registrando ID 118670276 (14/74) da página 17
+  File "C:\Users\Usuario\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\sessions.py", line 589, in request
+Registrando ID 118677378 (15/74) da página 17
+    resp = self.send(prep, **send_kwargs)
+Registrando ID 118677485 (16/74) da página 17
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Registrando ID 118677638 (17/74) da página 17
+  File "C:\Users\Usuario\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\sessions.py", line 703, in send
+Registrando ID 118678000 (18/74) da página 17
+    r = adapter.send(request, **kwargs)
+Registrando ID 118678686 (19/74) da página 17
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Registrando ID 118685226 (20/74) da página 17
+  File "C:\Users\Usuario\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\adapters.py", line 519, in send
+Registrando ID 118685398 (21/74) da página 17
+    raise ConnectionError(e, request=request)
+Registrando ID 118685615 (22/74) da página 17
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api-analytics.checklistfacil.com.br', port=443): Max retries exceeded with url: /v1/evaluations?status=6&checklistId=415456&page=18 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002459D0B7850>: Failed to resolve 'api-analytics.checklistfacil.com.br' ([Errno 11001] getaddrinfo failed)"))
+Registrando ID 118685803 (23/74) da página 17
+Registrando ID 118693895 (24/74) da página 17
+Registrando ID 118693911 (25/74) da página 17
+Registrando ID 118702806 (26/74) da página 17
+Registrando ID 118708169 (27/74) da página 17
+Registrando ID 118708995 (28/74) da página 17
+Registrando ID 118709451 (29/74) da página 17
+Registrando ID 118713724 (30/74) da página 17
+Registrando ID 118713725 (31/74) da página 17
+Registrando ID 118717413 (32/74) da página 17
+Registrando ID 118717482 (33/74) da página 17
+Registrando ID 118717511 (34/74) da página 17
+Registrando ID 118728151 (35/74) da página 17
+Registrando ID 118729896 (36/74) da página 17
+Registrando ID 118729922 (37/74) da página 17
+Registrando ID 118729955 (38/74) da página 17
+Registrando ID 118731312 (39/74) da página 17
+Registrando ID 118731338 (40/74) da página 17
+Registrando ID 118731370 (41/74) da página 17
+Registrando ID 118731402 (42/74) da página 17
+Registrando ID 118731448 (43/74) da página 17
+Registrando ID 118731831 (44/74) da página 17
+Registrando ID 118731838 (45/74) da página 17
+Registrando ID 118731879 (46/74) da página 17
+Registrando ID 118731958 (47/74) da página 17
+Registrando ID 118732061 (48/74) da página 17
+Registrando ID 118732086 (49/74) da página 17
+Registrando ID 118733059 (50/74) da página 17
+Registrando ID 118733269 (51/74) da página 17
+Registrando ID 118733321 (52/74) da página 17
+Registrando ID 118733346 (53/74) da página 17
+Registrando ID 118733384 (54/74) da página 17
+Registrando ID 118733444 (55/74) da página 17
+Registrando ID 118733464 (56/74) da página 17
+Registrando ID 118733785 (57/74) da página 17
+Registrando ID 118733801 (58/74) da página 17
+Registrando ID 118733804 (59/74) da página 17
+Registrando ID 118733857 (60/74) da página 17
+Registrando ID 118733964 (61/74) da página 17
+Registrando ID 118734000 (62/74) da página 17
+Registrando ID 118734087 (63/74) da página 17
+Registrando ID 118734373 (64/74) da página 17
+Registrando ID 118736851 (65/74) da página 17
+Registrando ID 118737041 (66/74) da página 17
+Registrando ID 118745178 (67/74) da página 17
+Registrando ID 118746049 (68/74) da página 17
+Registrando ID 118746392 (69/74) da página 17
+Registrando ID 118746510 (70/74) da página 17
+Registrando ID 118746566 (71/74) da página 17
+Registrando ID 118746672 (72/74) da página 17
+Registrando ID 118746763 (73/74) da página 17
+Registrando ID 118746784 (74/74) da página 17
+IDs retornados na página 17: 1000
+IDs já registrados no banco de dados: 16926
+Novos registros a serem registrados: 74
+Conexão ao MySQL fechada.
+
+
+========================================
+Hora de fim: 13-43-13
+========================================

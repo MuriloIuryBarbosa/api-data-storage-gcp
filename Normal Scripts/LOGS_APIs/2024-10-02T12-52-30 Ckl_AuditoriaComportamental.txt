@@ -1,0 +1,51 @@
+Script: Ckl_AuditoriaComportamental
+Data de execução: 2024-10-02
+Hora de inicio: 12-52-30
+========================================
+Executando "Ckl_AuditoriaComportamental"...
+========================================
+
+Conexão ao MySQL estabelecida com sucesso.
+Falha ao obter informações da avaliação 18292702. Status code: 404
+Falha ao obter informações da avaliação 79689553. Status code: 404
+Falha ao obter informações da avaliação 84522300. Status code: 404
+Processamento da página 1 concluído. 3 novos registros inseridos.
+Falha ao obter informações da avaliação 87042113. Status code: 404
+Falha ao obter informações da avaliação 87318322. Status code: 404
+Falha ao obter informações da avaliação 87419276. Status code: 404
+Falha ao obter informações da avaliação 89418957. Status code: 404
+Processamento da página 2 concluído. 4 novos registros inseridos.
+Falha ao obter informações da avaliação 89727916. Status code: 404
+Falha ao obter informações da avaliação 91174106. Status code: 404
+Falha ao obter informações da avaliação 91372753. Status code: 404
+Processamento da página 3 concluído. 3 novos registros inseridos.
+Processamento da página 4 concluído. 0 novos registros inseridos.
+Processamento da página 5 concluído. 0 novos registros inseridos.
+Processamento da página 6 concluído. 0 novos registros inseridos.
+Processamento da página 7 concluído. 0 novos registros inseridos.
+Duas páginas consecutivas retornaram 0 IDs. Finalizando o loop.
+Limite de requisições excedido. Aguardando 1.13 segundos antes de tentar novamente.
+Limite de requisições excedido. Aguardando 2.70 segundos antes de tentar novamente.
+Limite de requisições excedido. Aguardando 4.42 segundos antes de tentar novamente.
+Limite de requisições excedido. Aguardando 8.12 segundos antes de tentar novamente.
+Limite de requisições excedido. Aguardando 16.95 segundos antes de tentar novamente.
+Processamento da página 1 concluído. 0 novos registros inseridos.
+Limite de requisições excedido. Aguardando 1.63 segundos antes de tentar novamente.
+Limite de requisições excedido. Aguardando 2.86 segundos antes de tentar novamente.
+Limite de requisições excedido. Aguardando 4.91 segundos antes de tentar novamente.
+Processamento da página 2 concluído. 0 novos registros inseridos.
+Registro 1/5 inserido com sucesso.
+Registro 2/5 inserido com sucesso.
+Registro 3/5 inserido com sucesso.
+Registro 4/5 inserido com sucesso.
+Registro 5/5 inserido com sucesso.
+Processamento da página 3 concluído. 5 novos registros inseridos.
+Processamento da página 4 concluído. 0 novos registros inseridos.
+Duas páginas consecutivas retornaram 0 IDs. Finalizando o loop.
+Processo concluído. Total de novos registros inseridos: 5
+Conexão ao MySQL fechada.
+
+
+========================================
+Hora de fim: 12-53-59
+========================================

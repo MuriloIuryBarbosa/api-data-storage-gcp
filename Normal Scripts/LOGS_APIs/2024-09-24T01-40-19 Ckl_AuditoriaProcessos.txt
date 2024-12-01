@@ -1,0 +1,55 @@
+Script: Ckl_AuditoriaProcessos
+Data de execução: 2024-09-24
+Hora de inicio: 01-40-19
+========================================
+Executando "Ckl_AuditoriaProcessos"...
+========================================
+
+Conexão ao MySQL estabelecida com sucesso.
+A requisição para o ID 101475247 falhou com o status code: 404
+IDs retornados na página 1: 1000
+IDs já registrados no banco de dados: 2267
+Novos registros a serem registrados: 1
+IDs retornados na página 2: 1000
+IDs já registrados no banco de dados: 2267
+Novos registros a serem registrados: 0
+Registrando ID 117973715 (1/25) da página 3
+Registrando ID 118086973 (2/25) da página 3
+Registrando ID 118087000 (3/25) da página 3
+Registrando ID 118119718 (4/25) da página 3
+Registrando ID 118120480 (5/25) da página 3
+Registrando ID 118122398 (6/25) da página 3
+Registrando ID 118130795 (7/25) da página 3
+Registrando ID 118143308 (8/25) da página 3
+Registrando ID 118164187 (9/25) da página 3
+Registrando ID 118165564 (10/25) da página 3
+Registrando ID 118175668 (11/25) da página 3
+Registrando ID 118175682 (12/25) da página 3
+Registrando ID 118176676 (13/25) da página 3
+Registrando ID 118192178 (14/25) da página 3
+Registrando ID 118192345 (15/25) da página 3
+Registrando ID 118192452 (16/25) da página 3
+Registrando ID 118192772 (17/25) da página 3
+Registrando ID 118192825 (18/25) da página 3
+Registrando ID 118194309 (19/25) da página 3
+Registrando ID 118194778 (20/25) da página 3
+Registrando ID 118194883 (21/25) da página 3
+Registrando ID 118195045 (22/25) da página 3
+Registrando ID 118201812 (23/25) da página 3
+Registrando ID 118201846 (24/25) da página 3
+Registrando ID 118207304 (25/25) da página 3
+IDs retornados na página 3: 293
+IDs já registrados no banco de dados: 2267
+Novos registros a serem registrados: 25
+IDs retornados na página 4: 0
+IDs já registrados no banco de dados: 2292
+Novos registros a serem registrados: 0
+Duas páginas consecutivas retornaram 0 IDs. Finalizando o loop.
+Conexão ao MySQL fechada.
+Processo finalizado.
+Novos Processos registrados no Banco: 25
+
+
+========================================
+Hora de fim: 01-45-24
+========================================

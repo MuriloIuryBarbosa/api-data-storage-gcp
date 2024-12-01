@@ -1,0 +1,29 @@
+Script: Ckl_CartaoVerde
+Data de execução: 2024-10-03
+Hora de inicio: 03-27-40
+========================================
+Executando "Ckl_CartaoVerde"...
+========================================
+
+Conexão ao MySQL estabelecida com sucesso.
+A requisição para o ID 92232895 falhou com o status code: 404
+IDs retornados na página 1: 1000
+IDs já registrados no banco de dados: 1890
+Novos registros a serem registrados: 1
+Registrando ID 119223568 (1/2) da página 2
+Registrando ID 119223710 (2/2) da página 2
+IDs retornados na página 2: 893
+IDs já registrados no banco de dados: 1890
+Novos registros a serem registrados: 2
+IDs retornados na página 3: 0
+IDs já registrados no banco de dados: 1892
+Novos registros a serem registrados: 0
+Duas páginas consecutivas retornaram 0 IDs. Finalizando o loop.
+Conexão ao MySQL fechada.
+Processo finalizado.
+Novos Processos registrados no Banco: 2
+
+
+========================================
+Hora de fim: 03-31-08
+========================================

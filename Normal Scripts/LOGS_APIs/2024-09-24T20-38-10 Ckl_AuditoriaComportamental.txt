@@ -1,0 +1,37 @@
+Script: Ckl_AuditoriaComportamental
+Data de execução: 2024-09-24
+Hora de inicio: 20-38-10
+========================================
+Executando "Ckl_AuditoriaComportamental"...
+========================================
+
+Conexão ao MySQL estabelecida com sucesso.
+Falha ao obter informações da avaliação 18292702. Status code: 404
+Falha ao obter informações da avaliação 79689553. Status code: 404
+Falha ao obter informações da avaliação 84522300. Status code: 404
+Processamento da página 1 concluído. 3 novos registros inseridos.
+Falha ao obter informações da avaliação 87042113. Status code: 404
+Falha ao obter informações da avaliação 87318322. Status code: 404
+Falha ao obter informações da avaliação 87419276. Status code: 404
+Falha ao obter informações da avaliação 89418957. Status code: 404
+Processamento da página 2 concluído. 4 novos registros inseridos.
+Falha ao obter informações da avaliação 89727916. Status code: 404
+Falha ao obter informações da avaliação 91174106. Status code: 404
+Falha ao obter informações da avaliação 91372753. Status code: 404
+Processamento da página 3 concluído. 3 novos registros inseridos.
+Processamento da página 4 concluído. 0 novos registros inseridos.
+Processamento da página 5 concluído. 0 novos registros inseridos.
+Processamento da página 6 concluído. 0 novos registros inseridos.
+Processamento da página 7 concluído. 0 novos registros inseridos.
+Duas páginas consecutivas retornaram 0 IDs. Finalizando o loop.
+Limite de requisições excedido. Aguardando 1.47 segundos antes de tentar novamente.
+Limite de requisições excedido. Aguardando 2.48 segundos antes de tentar novamente.
+Limite de requisições excedido. Aguardando 4.84 segundos antes de tentar novamente.
+Limite de requisições excedido. Aguardando 8.20 segundos antes de tentar novamente.
+Limite de requisições excedido. Aguardando 16.55 segundos antes de tentar novamente.
+Erro ao conectar ao MySQL: 2013: Lost connection to MySQL server during query
+
+
+========================================
+Hora de fim: 20-39-34
+========================================

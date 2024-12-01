@@ -1,0 +1,105 @@
+Script: Ckl_AuditoriaComportamental
+Data de execução: 2024-10-01
+Hora de inicio: 12-34-32
+========================================
+Executando "Ckl_AuditoriaComportamental"...
+========================================
+
+Conexão ao MySQL estabelecida com sucesso.
+Falha ao obter informações da avaliação 18292702. Status code: 404
+Falha ao obter informações da avaliação 79689553. Status code: 404
+Falha ao obter informações da avaliação 84522300. Status code: 404
+Processamento da página 1 concluído. 3 novos registros inseridos.
+Falha ao obter informações da avaliação 87042113. Status code: 404
+Falha ao obter informações da avaliação 87318322. Status code: 404
+Falha ao obter informações da avaliação 87419276. Status code: 404
+Falha ao obter informações da avaliação 89418957. Status code: 404
+Processamento da página 2 concluído. 4 novos registros inseridos.
+Falha ao obter informações da avaliação 89727916. Status code: 404
+Falha ao obter informações da avaliação 91174106. Status code: 404
+Falha ao obter informações da avaliação 91372753. Status code: 404
+Processamento da página 3 concluído. 3 novos registros inseridos.
+Processamento da página 4 concluído. 0 novos registros inseridos.
+Processamento da página 5 concluído. 0 novos registros inseridos.
+Processamento da página 6 concluído. 0 novos registros inseridos.
+Processamento da página 7 concluído. 0 novos registros inseridos.
+Duas páginas consecutivas retornaram 0 IDs. Finalizando o loop.
+Limite de requisições excedido. Aguardando 1.88 segundos antes de tentar novamente.
+Limite de requisições excedido. Aguardando 2.98 segundos antes de tentar novamente.
+Limite de requisições excedido. Aguardando 4.98 segundos antes de tentar novamente.
+Limite de requisições excedido. Aguardando 8.92 segundos antes de tentar novamente.
+Limite de requisições excedido. Aguardando 16.97 segundos antes de tentar novamente.
+Processamento da página 1 concluído. 0 novos registros inseridos.
+Limite de requisições excedido. Aguardando 1.46 segundos antes de tentar novamente.
+Limite de requisições excedido. Aguardando 2.03 segundos antes de tentar novamente.
+Registro 1/35 inserido com sucesso.
+Registro 2/35 inserido com sucesso.
+Registro 3/35 inserido com sucesso.
+Registro 4/35 inserido com sucesso.
+Registro 5/35 inserido com sucesso.
+Registro 6/35 inserido com sucesso.
+Registro 7/35 inserido com sucesso.
+Registro 8/35 inserido com sucesso.
+Registro 9/35 inserido com sucesso.
+Registro 10/35 inserido com sucesso.
+Registro 11/35 inserido com sucesso.
+Registro 12/35 inserido com sucesso.
+Registro 13/35 inserido com sucesso.
+Registro 14/35 inserido com sucesso.
+Registro 15/35 inserido com sucesso.
+Registro 16/35 inserido com sucesso.
+Registro 17/35 inserido com sucesso.
+Registro 18/35 inserido com sucesso.
+Registro 19/35 inserido com sucesso.
+Registro 20/35 inserido com sucesso.
+Registro 21/35 inserido com sucesso.
+Registro 22/35 inserido com sucesso.
+Registro 23/35 inserido com sucesso.
+Registro 24/35 inserido com sucesso.
+Registro 25/35 inserido com sucesso.
+Registro 26/35 inserido com sucesso.
+Registro 27/35 inserido com sucesso.
+Registro 28/35 inserido com sucesso.
+Registro 29/35 inserido com sucesso.
+Registro 30/35 inserido com sucesso.
+Registro 31/35 inserido com sucesso.
+Registro 32/35 inserido com sucesso.
+Registro 33/35 inserido com sucesso.
+Registro 34/35 inserido com sucesso.
+Registro 35/35 inserido com sucesso.
+Processamento da página 2 concluído. 35 novos registros inseridos.
+Registro 1/25 inserido com sucesso.
+Registro 2/25 inserido com sucesso.
+Registro 3/25 inserido com sucesso.
+Registro 4/25 inserido com sucesso.
+Registro 5/25 inserido com sucesso.
+Registro 6/25 inserido com sucesso.
+Registro 7/25 inserido com sucesso.
+Registro 8/25 inserido com sucesso.
+Registro 9/25 inserido com sucesso.
+Registro 10/25 inserido com sucesso.
+Registro 11/25 inserido com sucesso.
+Registro 12/25 inserido com sucesso.
+Registro 13/25 inserido com sucesso.
+Registro 14/25 inserido com sucesso.
+Registro 15/25 inserido com sucesso.
+Registro 16/25 inserido com sucesso.
+Registro 17/25 inserido com sucesso.
+Registro 18/25 inserido com sucesso.
+Registro 19/25 inserido com sucesso.
+Registro 20/25 inserido com sucesso.
+Registro 21/25 inserido com sucesso.
+Registro 22/25 inserido com sucesso.
+Registro 23/25 inserido com sucesso.
+Registro 24/25 inserido com sucesso.
+Registro 25/25 inserido com sucesso.
+Processamento da página 3 concluído. 25 novos registros inseridos.
+Processamento da página 4 concluído. 0 novos registros inseridos.
+Duas páginas consecutivas retornaram 0 IDs. Finalizando o loop.
+Processo concluído. Total de novos registros inseridos: 60
+Conexão ao MySQL fechada.
+
+
+========================================
+Hora de fim: 12-37-43
+========================================

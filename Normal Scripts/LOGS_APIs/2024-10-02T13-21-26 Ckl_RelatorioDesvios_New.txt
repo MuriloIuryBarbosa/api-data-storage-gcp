@@ -1,0 +1,52 @@
+Script: Ckl_RelatorioDesvios_New
+Data de execução: 2024-10-02
+Hora de inicio: 13-21-26
+========================================
+Executando "Ckl_RelatorioDesvios_New"...
+========================================
+
+Conexão ao MySQL estabelecida com sucesso.
+A requisição para o ID 114713870 falhou com o status code: 404
+IDs retornados na página 1: 1000
+IDs já registrados no banco de dados: 1640
+Novos registros a serem registrados: 1
+Registrando ID 119129531 (1/25) da página 2
+Registrando ID 119133228 (2/25) da página 2
+Registrando ID 119133314 (3/25) da página 2
+Registrando ID 119138107 (4/25) da página 2
+Registrando ID 119142979 (5/25) da página 2
+Registrando ID 119144154 (6/25) da página 2
+Registrando ID 119145465 (7/25) da página 2
+Registrando ID 119149419 (8/25) da página 2
+Registrando ID 119152449 (9/25) da página 2
+Registrando ID 119152459 (10/25) da página 2
+Registrando ID 119152865 (11/25) da página 2
+Registrando ID 119153013 (12/25) da página 2
+Registrando ID 119153237 (13/25) da página 2
+Registrando ID 119157104 (14/25) da página 2
+Registrando ID 119158149 (15/25) da página 2
+Registrando ID 119159722 (16/25) da página 2
+Registrando ID 119159891 (17/25) da página 2
+Registrando ID 119161371 (18/25) da página 2
+Registrando ID 119161677 (19/25) da página 2
+Registrando ID 119165976 (20/25) da página 2
+Registrando ID 119169966 (21/25) da página 2
+Registrando ID 119170682 (22/25) da página 2
+Registrando ID 119172266 (23/25) da página 2
+Registrando ID 119174106 (24/25) da página 2
+Registrando ID 119182301 (25/25) da página 2
+IDs retornados na página 2: 666
+IDs já registrados no banco de dados: 1640
+Novos registros a serem registrados: 25
+IDs retornados na página 3: 0
+IDs já registrados no banco de dados: 1665
+Novos registros a serem registrados: 0
+Duas páginas consecutivas retornaram 0 IDs. Finalizando o loop.
+Conexão ao MySQL fechada.
+Processo finalizado.
+Novos Processos registrados no Banco: 25
+
+
+========================================
+Hora de fim: 13-25-27
+========================================

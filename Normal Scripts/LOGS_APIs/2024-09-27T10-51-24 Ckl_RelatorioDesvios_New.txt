@@ -1,0 +1,81 @@
+Script: Ckl_RelatorioDesvios_New
+Data de execução: 2024-09-27
+Hora de inicio: 10-51-24
+========================================
+Executando "Ckl_RelatorioDesvios_New"...
+========================================
+
+Conexão ao MySQL estabelecida com sucesso.
+A requisição para o ID 114713870 falhou com o status code: 404
+IDs retornados na página 1: 1000
+IDs já registrados no banco de dados: 1365
+Novos registros a serem registrados: 1
+Registrando ID 118353207 (1/54) da página 2
+Registrando ID 118457645 (2/54) da página 2
+Registrando ID 118457702 (3/54) da página 2
+Registrando ID 118459461 (4/54) da página 2
+Registrando ID 118473326 (5/54) da página 2
+Registrando ID 118475102 (6/54) da página 2
+Registrando ID 118480456 (7/54) da página 2
+Registrando ID 118485464 (8/54) da página 2
+Registrando ID 118490602 (9/54) da página 2
+Registrando ID 118497794 (10/54) da página 2
+Registrando ID 118499687 (11/54) da página 2
+Registrando ID 118505565 (12/54) da página 2
+Registrando ID 118505974 (13/54) da página 2
+Registrando ID 118506067 (14/54) da página 2
+Registrando ID 118506139 (15/54) da página 2
+Registrando ID 118506307 (16/54) da página 2
+Registrando ID 118510148 (17/54) da página 2
+Registrando ID 118510906 (18/54) da página 2
+Registrando ID 118511138 (19/54) da página 2
+Registrando ID 118511262 (20/54) da página 2
+Registrando ID 118511520 (21/54) da página 2
+Registrando ID 118511728 (22/54) da página 2
+Registrando ID 118517099 (23/54) da página 2
+Registrando ID 118534032 (24/54) da página 2
+Registrando ID 118536095 (25/54) da página 2
+Registrando ID 118540866 (26/54) da página 2
+Registrando ID 118541836 (27/54) da página 2
+Registrando ID 118541995 (28/54) da página 2
+Registrando ID 118542968 (29/54) da página 2
+Registrando ID 118543260 (30/54) da página 2
+Registrando ID 118545352 (31/54) da página 2
+Registrando ID 118551490 (32/54) da página 2
+Registrando ID 118554120 (33/54) da página 2
+Registrando ID 118555352 (34/54) da página 2
+Registrando ID 118556580 (35/54) da página 2
+Registrando ID 118556857 (36/54) da página 2
+Registrando ID 118565773 (37/54) da página 2
+Registrando ID 118566583 (38/54) da página 2
+Registrando ID 118568875 (39/54) da página 2
+Registrando ID 118575678 (40/54) da página 2
+Registrando ID 118579223 (41/54) da página 2
+Registrando ID 118579241 (42/54) da página 2
+Registrando ID 118584858 (43/54) da página 2
+Registrando ID 118588955 (44/54) da página 2
+Registrando ID 118589028 (45/54) da página 2
+Registrando ID 118607699 (46/54) da página 2
+Registrando ID 118607739 (47/54) da página 2
+Registrando ID 118607774 (48/54) da página 2
+Registrando ID 118607812 (49/54) da página 2
+Registrando ID 118612380 (50/54) da página 2
+Registrando ID 118622697 (51/54) da página 2
+Registrando ID 118623556 (52/54) da página 2
+Registrando ID 118641127 (53/54) da página 2
+Registrando ID 118641179 (54/54) da página 2
+IDs retornados na página 2: 420
+IDs já registrados no banco de dados: 1365
+Novos registros a serem registrados: 54
+IDs retornados na página 3: 0
+IDs já registrados no banco de dados: 1419
+Novos registros a serem registrados: 0
+Duas páginas consecutivas retornaram 0 IDs. Finalizando o loop.
+Conexão ao MySQL fechada.
+Processo finalizado.
+Novos Processos registrados no Banco: 54
+
+
+========================================
+Hora de fim: 10-55-50
+========================================

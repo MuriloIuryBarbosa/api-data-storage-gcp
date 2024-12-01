@@ -1,0 +1,69 @@
+Script: Ckl_CartaoVerde
+Data de execução: 2024-10-01
+Hora de inicio: 12-50-48
+========================================
+Executando "Ckl_CartaoVerde"...
+========================================
+
+Conexão ao MySQL estabelecida com sucesso.
+A requisição para o ID 92232895 falhou com o status code: 404
+IDs retornados na página 1: 1000
+IDs já registrados no banco de dados: 1841
+Novos registros a serem registrados: 1
+Registrando ID 118644397 (1/42) da página 2
+Registrando ID 118661224 (2/42) da página 2
+Registrando ID 118665196 (3/42) da página 2
+Registrando ID 118667300 (4/42) da página 2
+Registrando ID 118667804 (5/42) da página 2
+Registrando ID 118679539 (6/42) da página 2
+Registrando ID 118680055 (7/42) da página 2
+Registrando ID 118680572 (8/42) da página 2
+Registrando ID 118698058 (9/42) da página 2
+Registrando ID 118709704 (10/42) da página 2
+Registrando ID 118740082 (11/42) da página 2
+Registrando ID 118744378 (12/42) da página 2
+Registrando ID 118846672 (13/42) da página 2
+Registrando ID 118846692 (14/42) da página 2
+Registrando ID 118846713 (15/42) da página 2
+Registrando ID 118849869 (16/42) da página 2
+Registrando ID 118853698 (17/42) da página 2
+Registrando ID 118882340 (18/42) da página 2
+Registrando ID 118884279 (19/42) da página 2
+Registrando ID 118885667 (20/42) da página 2
+Registrando ID 118888728 (21/42) da página 2
+Registrando ID 118888921 (22/42) da página 2
+Registrando ID 118889514 (23/42) da página 2
+Registrando ID 118890838 (24/42) da página 2
+Registrando ID 118891153 (25/42) da página 2
+Registrando ID 118891391 (26/42) da página 2
+Registrando ID 118891630 (27/42) da página 2
+Registrando ID 118898595 (28/42) da página 2
+Registrando ID 118898766 (29/42) da página 2
+Registrando ID 118902384 (30/42) da página 2
+Registrando ID 118902494 (31/42) da página 2
+Registrando ID 118902621 (32/42) da página 2
+Registrando ID 118902733 (33/42) da página 2
+Registrando ID 118927071 (34/42) da página 2
+Registrando ID 118929530 (35/42) da página 2
+Registrando ID 118980704 (36/42) da página 2
+Registrando ID 118983941 (37/42) da página 2
+Registrando ID 118996308 (38/42) da página 2
+Registrando ID 119000187 (39/42) da página 2
+Registrando ID 119001411 (40/42) da página 2
+Registrando ID 119001465 (41/42) da página 2
+Registrando ID 119005572 (42/42) da página 2
+IDs retornados na página 2: 884
+IDs já registrados no banco de dados: 1841
+Novos registros a serem registrados: 42
+IDs retornados na página 3: 0
+IDs já registrados no banco de dados: 1883
+Novos registros a serem registrados: 0
+Duas páginas consecutivas retornaram 0 IDs. Finalizando o loop.
+Conexão ao MySQL fechada.
+Processo finalizado.
+Novos Processos registrados no Banco: 42
+
+
+========================================
+Hora de fim: 12-55-08
+========================================
