@@ -2,3 +2,6 @@ requests
 datetime
 pymysql
 python-dotenv
+
+# Para instalar todos os pacotes listados neste arquivo, execute:
+# pip install -r requirements.txt
