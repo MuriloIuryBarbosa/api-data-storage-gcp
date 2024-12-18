@@ -11,7 +11,7 @@ script_names = [
     "CargoSnap_Proex.py",
     "CargoSnap_Inspecao_Insetos.py",
     "CargoSnap_Inspecao_Plataforma.py",
-]
+] 
 
 for script_name in script_names:
     script_path = os.path.join(base_dir, script_name)
