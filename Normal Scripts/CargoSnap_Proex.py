@@ -1,6 +1,6 @@
 import requests
 import mysql.connector
-from datetime import datetime
+from datetime import datetime, timedelta, timedelta
 import warnings
 import os
 from dotenv import load_dotenv
@@ -20,6 +20,16 @@ db_name = os.getenv('MYSQL_DATABASE')
 token = os.getenv('Token_CargoSnap_Proex')
 table_name = os.getenv('Table_CargoSnap_Proex_2')
 
+# Função para calcular as datas de início e fim
+def get_date_range(days=90):
+    """Retorna uma tupla com a data de início e a data de hoje formatadas."""
+    end_date = datetime.today()
+    start_date = end_date - timedelta(days=days)
+    return start_date.strftime('%Y-%m-%d'), end_date.strftime('%Y-%m-%d')
+
+# Obter intervalo de datas
+start_date, end_date = get_date_range()
+
 # Conectar ao banco de dados MySQL
 conexao = mysql.connector.connect(
     host=db_ip_public,
@@ -37,7 +47,7 @@ more_pages = True
 # Loop enquanto houver mais páginas
 while more_pages:
     # URL da API com o parâmetro de página atualizado
-    url = f'https://api.cargosnap.com/api/v2/forms/1757?format=json&token={token}&limit=200&startdate=1999-01-01&enddate=2099-12-31&page={page}'
+    url = f'https://api.cargosnap.com/api/v2/forms/1757?format=json&token={token}&limit=200&startdate={start_date}&enddate={end_date}&page={page}'
 
     # Fazendo a requisição GET para a API
     response = requests.get(url, verify=False)

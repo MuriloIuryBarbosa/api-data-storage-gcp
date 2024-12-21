@@ -1,6 +1,6 @@
 import requests
 import pymysql
-from datetime import datetime
+from datetime import datetime, timedelta
 import time  # Importar a biblioteca time para lidar com a espera em caso de erro 429
 
 # Lista de IDs de checklists
@@ -35,6 +35,15 @@ def processar_pagina(url_ConsultaIDChecklist, headers):
         print(f"Falha ao obter a lista de 'evaluationId' da página {url_ConsultaIDChecklist}. Status code: {response.status_code}")
         return []
 
+def get_date_range_iso8601(days=90):
+    """Retorna uma tupla com a data de início e a data de hoje formatadas em ISO 8601 com UTC."""
+    end_date = datetime.now(timezone.utc)  # Data atual em UTC
+    start_date = end_date - timedelta(days=days)  # Data inicial em UTC
+    return start_date.isoformat(), end_date.isoformat()
+
+    # Obter intervalo de datas no formato ISO 8601
+    start_date, end_date = get_date_range_iso8601()
+
 # Função para testar a conexão com o MySQL
 def testar_conexao():
     try:
@@ -54,6 +63,10 @@ def testar_conexao():
     except pymysql.MySQLError as err:
         print(f"Erro ao conectar ao MySQL: {err}")
         return False
+
+
+
+
 
 # Função principal
 def main(data, context):

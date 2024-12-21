@@ -1,6 +1,6 @@
 import requests
 import pymysql
-from datetime import datetime
+from datetime import datetime, timedelta
 
     # Conectar ao banco de dados MySQL
     conexao = pymysql.connect(

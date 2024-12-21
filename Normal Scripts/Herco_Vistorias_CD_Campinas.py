@@ -1,6 +1,6 @@
 import requests
 import mysql.connector
-from datetime import datetime
+from datetime import datetime, timedelta
 import random
 import time
 import pymysql
@@ -23,6 +23,15 @@ db_name = os.getenv('MYSQL_DATABASE')
 token = os.getenv('Token_Herco_CD_Campinas')
 table_name = os.getenv('Table_Herco_CD_Campinas')
 
+def get_date_range_iso8601(days=90):
+    """Retorna uma tupla com a data de início e a data de hoje formatadas em ISO 8601 com UTC."""
+    end_date = datetime.now(timezone.utc)  # Data atual em UTC
+    start_date = end_date - timedelta(days=days)  # Data inicial em UTC
+    return start_date.isoformat(), end_date.isoformat()
+
+    # Obter intervalo de datas no formato ISO 8601
+    start_date, end_date = get_date_range_iso8601()
+
 # Função para testar a conexão com o MySQL
 def testar_conexao():
     try:
@@ -42,6 +51,10 @@ def testar_conexao():
     except pymysql.MySQLError as err:
         print(f"Erro ao conectar ao MySQL: {err}")
         return False
+
+
+
+
 
 # Função para processar uma página de avaliações
 def processar_pagina(url_ConsultaIDChecklist, headers, retries=5):

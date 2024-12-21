@@ -3,7 +3,7 @@ import os
 from dotenv import load_dotenv
 import pandas as pd
 from google.cloud import bigquery
-from datetime import datetime
+from datetime import datetime, timedelta
 import warnings
 
 # Suprimir avisos de InsecureRequestWarning

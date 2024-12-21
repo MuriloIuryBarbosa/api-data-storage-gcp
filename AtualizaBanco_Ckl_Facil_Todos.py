@@ -18,6 +18,11 @@ script_names = [
     "Ckl_TemposCarregamentosBensDeConsumo.py",
     "Ckl_AvariaMovimentacao.py",
     "Ckl_RelatorioDeRefugo.py",
+
+    #### Checklists Niterra ####
+    "Ckl_Niterra_ControleDeInventario.py"
+    "Ckl_Niterra_RecebimentoEmbalagem.py"
+    "Ckl_Niterra_ControleDeEntregaCaixasLimpas.py"
 ]
 
 for script_name in script_names:
