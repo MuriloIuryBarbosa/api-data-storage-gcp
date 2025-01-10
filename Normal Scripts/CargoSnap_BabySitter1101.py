@@ -21,7 +21,7 @@ token = os.getenv('Token_CargoSnap_BabySitter1101')
 table_name = os.getenv('Table_CargoSnap_BabySitter1101_2')
 
 # Função para calcular as datas de início e fim
-def get_date_range(days=90):
+def get_date_range(days=60):
     """Retorna uma tupla com a data de início e a data de hoje formatadas."""
     end_date = datetime.today()
     start_date = end_date - timedelta(days=days)
