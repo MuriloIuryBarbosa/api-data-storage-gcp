@@ -143,6 +143,20 @@ def main():
                             Operador = None
                             ModeloCaixaRecebida = None
                             QuantidadeCaixaRecebida = None
+                            ModeloCaixaRecebida2 = None
+                            QuantidadeCaixaRecebida2 = None
+                            ModeloCaixaRecebida3 = None
+                            QuantidadeCaixaRecebida3 = None
+                            ModeloCaixaRecebida4 = None
+                            QuantidadeCaixaRecebida4 = None
+                            ModeloCaixaRecebida5 = None
+                            QuantidadeCaixaRecebida5 = None
+                            ModeloCaixaRecebida6 = None
+                            QuantidadeCaixaRecebida6 = None
+                            ModeloCaixaRecebida7 = None
+                            QuantidadeCaixaRecebida7 = None
+                            ModeloCaixaRecebida8 = None
+                            QuantidadeCaixaRecebida8 = None
                             NumeroNF = None
                             DataNF = None
                             DepositoRecebedor = None
@@ -158,10 +172,45 @@ def main():
                                         HoraRecebimento = item['answer']['text'] if item.get('answer') else None
                                     if item['name'] == 'Operador':
                                         Operador = item['answer']['selectedOptions'][0]['text']
-                                    if item['name'] == 'Modelo de caixa recebida':
-                                        ModeloCaixaRecebida = item['answer']['selectedOptions'][0]['text']                                        
-                                    if item['name'] == 'Quantidade de caixas recebidas':
-                                        QuantidadeCaixaRecebida =  item['answer']['number'] if item.get('answer') else None
+                                    if item['name'] == '1- Modelo de caixa recebida':
+                                        ModeloCaixaRecebida1 = item['answer']['selectedOptions'][0]['text']                                        
+                                    if item['name'] == '1 - Quantidade de caixas recebidas':
+                                        QuantidadeCaixaRecebida1 =  item['answer']['number'] if item.get('answer') else None
+
+                                    if item['name'] == '2- Modelo de caixa recebida':
+                                        ModeloCaixaRecebida2 = item['answer']['selectedOptions'][0]['text']
+                                    if item['name'] == '2 - Quantidade de caixas recebidas':
+                                        QuantidadeCaixaRecebida2 =  item['answer']['number'] if item.get('answer') else None
+
+                                    if item['name'] == '3- Modelo de caixa recebida':
+                                        ModeloCaixaRecebida3 = item['answer']['selectedOptions'][0]['text']
+                                    if item['name'] == '3 - Quantidade de caixas recebidas':
+                                        QuantidadeCaixaRecebida3 =  item['answer']['number'] if item.get('answer') else None
+
+                                    if item['name'] == '4- Modelo de caixa recebida':
+                                        ModeloCaixaRecebida4 = item['answer']['selectedOptions'][0]['text']
+                                    if item['name'] == '4 - Quantidade de caixas recebidas':
+                                        QuantidadeCaixaRecebida4 =  item['answer']['number'] if item.get('answer') else None
+
+                                    if item['name'] == '5- Modelo de caixa recebida':
+                                        ModeloCaixaRecebida5 = item['answer']['selectedOptions'][0]['text']
+                                    if item['name'] == '5 - Quantidade de caixas recebidas':
+                                        QuantidadeCaixaRecebida5 =  item['answer']['number'] if item.get('answer') else None
+
+                                    if item['name'] == '6- Modelo de caixa recebida':
+                                        ModeloCaixaRecebida6 = item['answer']['selectedOptions'][0]['text']
+                                    if item['name'] == '6 - Quantidade de caixas recebidas':
+                                        QuantidadeCaixaRecebida6 =  item['answer']['number'] if item.get('answer') else None
+
+                                    if item['name'] == '7- Modelo de caixa recebida':
+                                        ModeloCaixaRecebida7 = item['answer']['selectedOptions'][0]['text']
+                                    if item['name'] == '7 - Quantidade de caixas recebidas':
+                                        QuantidadeCaixaRecebida7 =  item['answer']['number'] if item.get('answer') else None
+
+                                    if item['name'] == '8- Modelo de caixa recebida':
+                                        ModeloCaixaRecebida8 = item['answer']['selectedOptions'][0]['text']
+                                    if item['name'] == '8 - Quantidade de caixas recebidas':
+                                        QuantidadeCaixaRecebida8 =  item['answer']['number'] if item.get('answer') else None                                                                                                                                                                                                                                                                                    
                                     
                                     if item['name'] == 'Número da Nota Fiscal':
                                         NumeroNF =  item['answer']['number'] if item.get('answer') else None
@@ -174,8 +223,8 @@ def main():
                                         DepositoRecebedor = item['answer']['selectedOptions'][0]['text']
 
                             # Inserir os dados no banco de dados MySQL
-                            sql = f"INSERT INTO {table_name} (id_ckl, Checklist, Unidade, Usuario, Status, Assinatura, DataRecebimento, HoraRecebimento, Operador, ModeloCaixaRecebida, QuantidadeCaixaRecebida, NumeroNF, DataNF, DepositoRecebedor) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
-                            val = (id, checklist, unidade, usuario, status, assinaturas, DataRecebimento, HoraRecebimento, Operador, ModeloCaixaRecebida, QuantidadeCaixaRecebida, NumeroNF, DataNF, DepositoRecebedor)
+                            sql = f"INSERT INTO {table_name} (id_ckl, Checklist, Unidade, Usuario, Status, Assinatura, DataRecebimento, HoraRecebimento, Operador, ModeloCaixaRecebida1, QuantidadeCaixaRecebida1, ModeloCaixaRecebida2, QuantidadeCaixaRecebida2, ModeloCaixaRecebida3, QuantidadeCaixaRecebida3, ModeloCaixaRecebida4, QuantidadeCaixaRecebida4, ModeloCaixaRecebida5, QuantidadeCaixaRecebida5, ModeloCaixaRecebida6, QuantidadeCaixaRecebida6, ModeloCaixaRecebida7, QuantidadeCaixaRecebida7, ModeloCaixaRecebida8, QuantidadeCaixaRecebida8, NumeroNF, DataNF, DepositoRecebedor) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
+                            val = (id, checklist, unidade, usuario, status, assinaturas, DataRecebimento, HoraRecebimento, Operador, ModeloCaixaRecebida1, QuantidadeCaixaRecebida1, ModeloCaixaRecebida2, QuantidadeCaixaRecebida2, ModeloCaixaRecebida3, QuantidadeCaixaRecebida3, ModeloCaixaRecebida4, QuantidadeCaixaRecebida4, ModeloCaixaRecebida5, QuantidadeCaixaRecebida5, ModeloCaixaRecebida6, QuantidadeCaixaRecebida6, ModeloCaixaRecebida7, QuantidadeCaixaRecebida7, ModeloCaixaRecebida8, QuantidadeCaixaRecebida8, NumeroNF, DataNF, DepositoRecebedor)
 
                             cursor.execute(sql, val)
                             conexao.commit()
